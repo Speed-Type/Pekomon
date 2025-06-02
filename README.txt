@@ -14,6 +14,8 @@
                      '                                                                                           
 
 
+DISCLAIMER: I do not own the rights to Pokemon. All rights belong to the original owner(s). No copyright infringement is intended.
+
 A knockoff, legally distinct Pokemon battle sim made by Ian Jang for AP Computer Science A (Final Project), 2025
 Last updated April 11, 2025
 
